@@ -1,0 +1,12 @@
+registration-form-login: Login
+registration-form-login-required: toto pole je povinné
+registration-form-password: Heslo
+registration-form-password-required: toto pole je povinné
+registration-form-password2: Heslo znovu
+registration-form-password2-required: toto pole je povinné
+registration-form-password2-equal: Hesla musí být stejná
+registration-form-username: Uživatelské jméno
+registration-form-email: Email
+registration-form-email-required: toto pole je povinné
+registration-form-email-rule-email: email musí být validní
+registration-form-send: Registrovat se
